@@ -34,7 +34,7 @@ def form():
 
 @app.route('/v-bucks') 
 def login(): 
-    return render_template('login.html', user=user) 
+    return render_template('login.html') 
 
 if __name__ == '__main__':  
 
