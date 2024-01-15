@@ -1,0 +1,16 @@
+h1 { 
+    border: 2px #eee solid; 
+    color: rgb(255, 0, 0); 
+    text-align: center; 
+    padding: 10px; 
+} 
+
+title {
+    color:lightseagreen;
+    text-align: right;
+}
+
+table, th, td { border: thin solid; }
+#coll { border-collapse: collapse; }
+#sepa { border-collapse: separate; margin-top: 2em; }
+caption { text-align: left; }
