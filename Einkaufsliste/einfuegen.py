@@ -6,4 +6,5 @@ cur = connection.cursor()
 cur.execute("INSERT INTO einkaufsliste (name, anzahl) VALUES ('Bananen', '6');") 
  
 connection.commit() 
-connection.close() 
+connection.close()
+
